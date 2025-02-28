@@ -1,3 +1,5 @@
+<h1>Summarize</h1>
+
 Summarize is an iphone application integrated with Starling Bank API
 
 The purpose of the app is to fetch bank account info such as balance, category wise spending, scheduled direct debits etc and summarise the content for the user. The concept is that at the endof every month, the account user would prefer a summary of their spendings and upcoming direct debits.
